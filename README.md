@@ -66,5 +66,5 @@ VisaSphere is a user-friendly Visa Navigator Portal designed to simplify the pro
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/visasphere.git
+   git clone https://github.com/Jaber-riyan/Visa_Sphere_Client.git
    cd visasphere
